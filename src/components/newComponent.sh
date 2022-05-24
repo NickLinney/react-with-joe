@@ -1,7 +1,11 @@
 #! /bin/sh
 
+# Use:
+# 'sh newComponent.sh <ComponentName>'
+#
 # This script creates a new React component. Put the script in whatever directory you are storing your component subdirectories in.
 # When you run 'sh newComponent.sh <componentName>' in your terminal, the script will create a new directory with .JS and .CSS template files in it.
+#
 # Have fun.
 
 componentName=$1

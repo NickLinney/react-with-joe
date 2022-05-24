@@ -1,3 +1,10 @@
 #FooterArea {
-  /* Add Component CSS here. */
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: black;
+  position: relative;
+  bottom: 0;
+  left: 0;
+  height: 300px;
+  width: 100%;
 }
